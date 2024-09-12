@@ -102,4 +102,7 @@ password : coding123
 
 15. Runserver
 ```bash
+python manage.py runserver
 ```
+16. Check on browser "Account" application and "Userprofile" is display
+![alt text](Output.png)
